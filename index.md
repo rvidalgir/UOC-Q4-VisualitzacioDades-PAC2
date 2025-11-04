@@ -1,6 +1,6 @@
-# Visualitzacions PAC2 — Ricard Vidal
+# Visualitzacions PAC2: Ricard Vidal
 
-## 🌍 Cartograma — CO₂ per càpita (2023)
+## Cartograma — CO₂ per càpita (2023)
 ![Cartograma CO₂](Cartograma.png)
 
 **Dades:** Our World in Data (OWID) · **Eines:** R (`sf`, `cartogram`, `ggplot2`)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔢 Matriu de correlacions — Iris
+## Matriu de correlacions — Iris
 ![Heatmap Iris](Matriu.png)
 
 **Dades:** Iris (Fisher, 1936) · **Eines:** R (`ggplot2`, `reshape2`)  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🩺 Violin plot — Esperança de vida
+## Violin plot — Esperança de vida
 ![Violin Plot](Violi.png)
 
 **Dades:** WHO Life Expectancy (Kaggle) · **Eines:** R (`ggplot2`)  
