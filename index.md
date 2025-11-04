@@ -1,7 +1,3 @@
----
-# PAC2: Visualitzacions
----
-
 # Visualitzacions PAC2 — Ricard Vidal
 
 ## 🌍 Cartograma — CO₂ per càpita (2023)
