@@ -1,5 +1,5 @@
 ---
-title: PAC2 — Visualitzacions
+# PAC2 — Visualitzacions
 ---
 
 # Visualitzacions PAC2 — Ricard Vidal
@@ -25,3 +25,6 @@ title: PAC2 — Visualitzacions
 
 **Dades:** WHO Life Expectancy (Kaggle) · **Eines:** R (`ggplot2`)  
 **Descripció:** Distribució de l’esperança de vida per nivell de desenvolupament, agrupada per continent.
+
+Ricard Vidal Girones
+Universitat Oberta de Catalunya
